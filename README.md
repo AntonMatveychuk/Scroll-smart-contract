@@ -18,7 +18,8 @@ We sign the transaction through Metamask and if everything went well, then your 
 
 ![image](https://github.com/AntonMatveychuk/Scroll-smart-contract/assets/101927107/79150567-3286-49a5-99c9-7f144cba1580)
 
-Congratulations, you have successfully deployed a smart contract in Scroll Mainnet. You can check it in the explorer by pasting the address [HERE](https://scrollscan.com/). Also, after successful deployment, you can check whether you are eligible for the NFT stamp [here](https://scroll.io/developer-nft/check-eligibility)https://scroll.io/developer-nft/check-eligibility.
+Congratulations, you have successfully deployed a smart contract in Scroll Mainnet. You can check it in the explorer by pasting the address [HERE](https://scrollscan.com/). 
+Also, after successful deployment, you can check whether you are eligible for the NFT stamp [here](https://scroll.io/developer-nft/check-eligibility)https://scroll.io/developer-nft/check-eligibility.
 
 ![image](https://github.com/AntonMatveychuk/Scroll-smart-contract/assets/101927107/17db93dc-100d-4434-9768-2c762823ac1b)
 
